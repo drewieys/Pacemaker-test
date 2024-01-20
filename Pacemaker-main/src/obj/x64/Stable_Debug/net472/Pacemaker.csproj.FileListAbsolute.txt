@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Pacemaker\bin\Win64_Shipping_Client\x64\Stable_Debug\net472\Pacemaker.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Pacemaker\bin\Win64_Shipping_Client\x64\Stable_Debug\net472\Pacemaker.pdb
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.csproj.AssemblyReference.cache
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.AssemblyInfoInputs.cache
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.AssemblyInfo.cs
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.csproj.CoreCompileInputs.cache
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.csproj.CopyComplete
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.dll
+C:\Users\drewiey\Desktop\Game filesSaves\New folder\Pacemaker-main\src\obj\x64\Stable_Debug\net472\Pacemaker.pdb
